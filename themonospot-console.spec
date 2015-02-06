@@ -1,7 +1,7 @@
 Summary:  Console application to use themonospot (multimedia files parser/editor)
 Name:     themonospot-console
 Version:  0.1.1
-Release:  2
+Release:  3
 License:  GPLv2
 Group:    Video
 Source:   http://www.integrazioneweb.com/repository/SOURCES/themonospot-console-%{version}.tar.gz
