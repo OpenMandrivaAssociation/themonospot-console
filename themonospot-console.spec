@@ -5,7 +5,7 @@ Release:  3
 License:  GPLv2
 Group:    Video
 Source:   http://www.integrazioneweb.com/repository/SOURCES/themonospot-console-%{version}.tar.gz
-Url:      http://www.integrazioneweb.com/themonospot
+Url:      https://www.integrazioneweb.com/themonospot
 
 #BuildArch : noarch
 %define debug_package %{nil}
