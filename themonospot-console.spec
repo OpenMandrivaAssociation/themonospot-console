@@ -10,6 +10,11 @@ Url:      https://www.integrazioneweb.com/themonospot
 #BuildArch : noarch
 %define debug_package %{nil}
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: mono-devel
 BuildRequires: themonospot-base-devel
 
